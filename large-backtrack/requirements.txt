@@ -1,0 +1,10 @@
+tensorflow>=2.0
+torch>=1.5
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+transformers
